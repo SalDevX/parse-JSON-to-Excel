@@ -8,20 +8,23 @@
 
 
 
-## Export Json datas to excel 
+# Export Json to excel 
 
-## excle dinamyc C Template 
+## Excle dinamyc C Template 
 
 ## Food costing table 
 
-## recipe_manager compile 
+## Recipe_manager compile and run the app!
+### /assets folder containing relative json files need to be in the root folder of the exec file!
+### Excel preadsheet output will be generated in the relative folder you have the application running.
+### Will keep on add features.. maybe not! who knows ;-) or you maight..
 
 ```bash
 make
 ```
+### Compile 
 
-
-## Or manually compile 
+## Or manually 
 
 ```bash 
 
@@ -30,6 +33,11 @@ g++ -g -I. -o recipe_manager recipe_manager.cpp main.c cJSON.c \
     -lxlsxwriter -lcjson -lsigc-3.0 -ljsoncpp
 
 ```
+## Run the app
+```bash
+./recipe_manager 
+```
+
 
 # main.c
 
