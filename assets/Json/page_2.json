@@ -1,0 +1,169 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Calamari Fritti",
+            "ingredients": [
+                {
+                    "grams_recipe": 300,
+                    "item_name": "Calamari (Squid)",
+                    "packaging_quantity": 1000,
+                    "price_item": 100000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "All-Purpose Flour",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Cornstarch",
+                    "packaging_quantity": 500,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Vegetable Oil (for frying)",
+                    "packaging_quantity": 2000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 20,
+                    "item_name": "Lemon (for garnish)",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Fresh Parsley (for garnish)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Patate Fritte with Aioli Mayo",
+            "ingredients": [
+                {
+                    "grams_recipe": 500,
+                    "item_name": "Potatoes",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Vegetable Oil (for frying)",
+                    "packaging_quantity": 2000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Mayonnaise",
+                    "packaging_quantity": 500,
+                    "price_item": 30000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Garlic (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Lemon Juice",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Fish & Chips",
+            "ingredients": [
+                {
+                    "grams_recipe": 500,
+                    "item_name": "White Fish Fillets (Cod, Haddock, etc.)",
+                    "packaging_quantity": 1000,
+                    "price_item": 50000
+                },
+                {
+                    "grams_recipe": 300,
+                    "item_name": "Potatoes (for chips)",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Flour (for batter)",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Cornstarch (for batter)",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Cold Beer (or sparkling water for batter)",
+                    "packaging_quantity": 500,
+                    "price_item": 20000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Vegetable Oil (for frying)",
+                    "packaging_quantity": 2000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Lemon",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Mayonnaise",
+                    "packaging_quantity": 500,
+                    "price_item": 30000
+                }
+            ]
+        }
+    ]
+}

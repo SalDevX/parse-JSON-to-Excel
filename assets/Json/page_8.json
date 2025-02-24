@@ -1,0 +1,235 @@
+{
+  "recipes": [
+    {
+      "recipe_name": "Risotto alla Pescatora – Seafood and Blue Fin Tuna Risotto",
+      "ingredients": [
+        {
+          "item_name": "Arborio Rice",
+          "packaging_quantity": 1000,
+          "price_item": 30000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Blue Fin Tuna",
+          "packaging_quantity": 500,
+          "price_item": 150000,
+          "grams_recipe": 150
+        },
+        {
+          "item_name": "Shrimp",
+          "packaging_quantity": 500,
+          "price_item": 70000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Squid",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Mussels",
+          "packaging_quantity": 500,
+          "price_item": 25000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Fish Stock",
+          "packaging_quantity": 1000,
+          "price_item": 20000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "White Wine",
+          "packaging_quantity": 500,
+          "price_item": 30000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fresh Parsley",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Lemon",
+          "packaging_quantity": 1,
+          "price_item": 5000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Risotto ai Funghi E Salsiccia – Mushroom and Sausage Risotto",
+      "ingredients": [
+        {
+          "item_name": "Arborio Rice",
+          "packaging_quantity": 1000,
+          "price_item": 30000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Pork Sausage",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 150
+        },
+        {
+          "item_name": "Mushrooms",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "White Wine",
+          "packaging_quantity": 500,
+          "price_item": 30000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fish Stock",
+          "packaging_quantity": 1000,
+          "price_item": 20000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Parmesan Cheese",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fresh Parsley",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Risotto Vegetariano – Vegetarian Risotto",
+      "ingredients": [
+        {
+          "item_name": "Arborio Rice",
+          "packaging_quantity": 1000,
+          "price_item": 30000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Vegetable Stock",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Mushrooms",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Zucchini",
+          "packaging_quantity": 500,
+          "price_item": 15000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Bell Pepper",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "White Wine",
+          "packaging_quantity": 500,
+          "price_item": 30000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Parmesan Cheese",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fresh Basil",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    }
+  ]
+}

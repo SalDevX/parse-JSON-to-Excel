@@ -1,0 +1,157 @@
+{
+    "recipes": [
+      {
+        "recipe_name": "Spigola al Cartoccio – Baked Sea Bass in Foil",
+        "ingredients": [
+          {
+            "item_name": "Sea Bass",
+            "packaging_quantity": 1000,
+            "price_item": 120000,
+            "grams_recipe": 300
+          },
+          {
+            "item_name": "Lemon",
+            "packaging_quantity": 1,
+            "price_item": 5000,
+            "grams_recipe": 20
+          },
+          {
+            "item_name": "Olive Oil",
+            "packaging_quantity": 3500,
+            "price_item": 280000,
+            "grams_recipe": 20
+          },
+          {
+            "item_name": "Garlic",
+            "packaging_quantity": 1000,
+            "price_item": 25000,
+            "grams_recipe": 5
+          },
+          {
+            "item_name": "Fresh Rosemary",
+            "packaging_quantity": 100,
+            "price_item": 10000,
+            "grams_recipe": 5
+          },
+          {
+            "item_name": "Sea Salt",
+            "packaging_quantity": 1000,
+            "price_item": 5000,
+            "grams_recipe": 1
+          },
+          {
+            "item_name": "Freshly Ground Black Pepper",
+            "packaging_quantity": 1000,
+            "price_item": 15000,
+            "grams_recipe": 1
+          }
+        ]
+      },
+      {
+            "recipe_name": "Salmone alla Griglia – Grilled Salmon",
+            "ingredients": [
+              {
+                "item_name": "Salmon Fillet",
+                "packaging_quantity": 1000,
+                "price_item": 100000,
+                "grams_recipe": 250
+              },
+              {
+                "item_name": "Olive Oil",
+                "packaging_quantity": 3500,
+                "price_item": 280000,
+                "grams_recipe": 20
+              },
+              {
+                "item_name": "Lemon",
+                "packaging_quantity": 1,
+                "price_item": 5000,
+                "grams_recipe": 20
+              },
+              {
+                "item_name": "Garlic",
+                "packaging_quantity": 1000,
+                "price_item": 25000,
+                "grams_recipe": 5
+              },
+              {
+                "item_name": "Fresh Rosemary",
+                "packaging_quantity": 100,
+                "price_item": 10000,
+                "grams_recipe": 5
+              },
+              {
+                "item_name": "Sea Salt",
+                "packaging_quantity": 1000,
+                "price_item": 5000,
+                "grams_recipe": 1
+              },
+              {
+                "item_name": "Freshly Ground Black Pepper",
+                "packaging_quantity": 1000,
+                "price_item": 15000,
+                "grams_recipe": 1
+              }
+            ]
+          },
+          {
+                "recipe_name": "Tonno alla Griglia – Grilled Tuna",
+                "ingredients": [
+                  {
+                    "item_name": "Tuna Steak",
+                    "packaging_quantity": 1000,
+                    "price_item": 120000,
+                    "grams_recipe": 250
+                  },
+                  {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 20
+                  },
+                  {
+                    "item_name": "Lemon",
+                    "packaging_quantity": 1,
+                    "price_item": 5000,
+                    "grams_recipe": 20
+                  },
+                  {
+                    "item_name": "Garlic",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 5
+                  },
+                  {
+                    "item_name": "Fresh Thyme",
+                    "packaging_quantity": 100,
+                    "price_item": 10000,
+                    "grams_recipe": 5
+                  },
+                  {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                  },
+                  {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                  }
+                ]
+              }
+            ]
+        }
+
+            
+          
+          
+
+        
+      
+      
+
+    
+  
+  

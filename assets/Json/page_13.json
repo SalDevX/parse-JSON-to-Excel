@@ -1,0 +1,116 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Calzone – Stuffed Pizza with Ham, Cheese, and Mushrooms",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Prosciutto (Ham)",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Mushrooms",
+                    "packaging_quantity": 1000,
+                    "price_item": 20000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Quattro Formaggi – Four Cheese Pizza",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Gorgonzola Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 80000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Parmesan Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 100000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Ricotta Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 35000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        }
+    ]
+}

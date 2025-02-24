@@ -1,0 +1,98 @@
+{
+  "recipes": [
+    {
+      "recipe_name": "Tiramisu",
+      "ingredients": [
+        {
+          "item_name": "Ladyfinger Biscuits",
+          "packaging_quantity": 500,
+          "price_item": 35000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Mascarpone Cheese",
+          "packaging_quantity": 500,
+          "price_item": 80000,
+          "grams_recipe": 250
+        },
+        {
+          "item_name": "Eggs",
+          "packaging_quantity": 12,
+          "price_item": 24000,
+          "grams_recipe": 12
+        },
+        {
+          "item_name": "Sugar",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Espresso Coffee",
+          "packaging_quantity": 250,
+          "price_item": 30000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Cocoa Powder",
+          "packaging_quantity": 250,
+          "price_item": 50000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Dark Rum",
+          "packaging_quantity": 700,
+          "price_item": 120000,
+          "grams_recipe": 20
+        }
+      ]
+    },
+    {
+      "recipe_name": "Panna Cotta Tricolore",
+      "ingredients": [
+        {
+          "item_name": "Heavy Cream",
+          "packaging_quantity": 1000,
+          "price_item": 50000,
+          "grams_recipe": 500
+        },
+        {
+          "item_name": "Milk",
+          "packaging_quantity": 1000,
+          "price_item": 20000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Sugar",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Gelatin Sheets",
+          "packaging_quantity": 50,
+          "price_item": 30000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Vanilla Extract",
+          "packaging_quantity": 100,
+          "price_item": 40000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Strawberry Puree",
+          "packaging_quantity": 500,
+          "price_item": 30000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Pistachio Paste",
+          "packaging_quantity": 500,
+          "price_item": 70000,
+          "grams_recipe": 100
+        }
+      ]
+    }
+  ]
+}

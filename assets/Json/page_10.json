@@ -1,0 +1,328 @@
+{
+  "recipes": [
+    {
+      "recipe_name": "Filetto di Manzo – Beef Tenderloin",
+      "ingredients": [
+        {
+          "item_name": "Beef Tenderloin",
+          "packaging_quantity": 1000,
+          "price_item": 200000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Fresh Rosemary",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Pollo alla Parmigiana – Chicken Parmesan",
+      "ingredients": [
+        {
+          "item_name": "Chicken Breast",
+          "packaging_quantity": 1000,
+          "price_item": 70000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Bread Crumbs",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Parmesan Cheese",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Mozzarella Cheese",
+          "packaging_quantity": 500,
+          "price_item": 40000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Tomato Sauce",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Fresh Basil",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Tagliata di Manzo – Sliced Grilled Beef",
+      "ingredients": [
+        {
+          "item_name": "Beef Sirloin",
+          "packaging_quantity": 1000,
+          "price_item": 150000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Fresh Rosemary",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Balsamic Vinegar",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Parmesan Cheese",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Costine di Maiale alla Barbecue – Barbecue Pork Ribs",
+      "ingredients": [
+        {
+          "item_name": "Pork Ribs",
+          "packaging_quantity": 1000,
+          "price_item": 120000,
+          "grams_recipe": 500
+        },
+        {
+          "item_name": "Barbecue Sauce",
+          "packaging_quantity": 500,
+          "price_item": 25000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Fresh Rosemary",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Costata di Manzo – Ribeye Steak",
+      "ingredients": [
+        {
+          "item_name": "Ribeye Steak",
+          "packaging_quantity": 1000,
+          "price_item": 200000,
+          "grams_recipe": 300
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Fresh Rosemary",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Hamburger Ginger House",
+      "ingredients": [
+        {
+          "item_name": "Ground Beef",
+          "packaging_quantity": 1000,
+          "price_item": 100000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Ginger Pickles",
+          "packaging_quantity": 1000,
+          "price_item": 20000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Onion",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Soy Sauce",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Brioche Bun",
+          "packaging_quantity": 500,
+          "price_item": 40000,
+          "grams_recipe": 100
+        },
+        {
+          "item_name": "Lettuce",
+          "packaging_quantity": 500,
+          "price_item": 20000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Tomato",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Cheese (Cheddar)",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 20
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    }
+  ]
+}

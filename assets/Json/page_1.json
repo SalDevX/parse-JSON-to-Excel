@@ -1,0 +1,216 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Bruschetta Italia (3 Pcs)",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Baguette or Ciabatta Bread",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Tomatoes (diced)",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Fresh Basil (chopped)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Garlic (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Extra Virgin Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Balsamic Vinegar (optional)",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Garlic Cheese Bread (3 Pcs)",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Baguette or Ciabatta Bread",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Butter (softened)",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 20,
+                    "item_name": "Garlic (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Mozzarella Cheese (shredded)",
+                    "packaging_quantity": 500,
+                    "price_item": 40000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Parmesan Cheese (grated)",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Fresh Parsley (chopped)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Beef Carpaccio",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Beef Tenderloin (thinly sliced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 250000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Lemon (juice)",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Parmesan Cheese (shaved)",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Capers",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Arugula (for garnish)",
+                    "packaging_quantity": 100,
+                    "price_item": 20000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Antipasto Misto (For 2)",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Prosciutto di Parma",
+                    "packaging_quantity": 500,
+                    "price_item": 80000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Salami (Italian)",
+                    "packaging_quantity": 500,
+                    "price_item": 70000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Mozzarella di Bufala",
+                    "packaging_quantity": 500,
+                    "price_item": 60000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Marinated Artichokes",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Mixed Olives",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Grilled Vegetables (zucchini, bell peppers)",
+                    "packaging_quantity": 500,
+                    "price_item": 30000
+                },
+                {
+                    "grams_recipe": 20,
+                    "item_name": "Fresh Basil Leaves",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Balsamic Vinegar (for drizzle)",
+                    "packaging_quantity": 500,
+                    "price_item": 20000
+                }
+            ]
+        }
+    ]
+}

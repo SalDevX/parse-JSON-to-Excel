@@ -1,0 +1,287 @@
+{
+  "recipes": [
+    {
+      "recipe_name": "Spaghetti Marinara (Seafood)",
+      "ingredients": [
+        {
+          "item_name": "Spaghetti",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Mixed Seafood (shrimp, squid, mussels, clams, fish)",
+          "packaging_quantity": 1000,
+          "price_item": 120000,
+          "grams_recipe": 300
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Tomatoes",
+          "packaging_quantity": 1000,
+          "price_item": 28000,
+          "grams_recipe": 150
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "White Wine",
+          "packaging_quantity": 750,
+          "price_item": 200000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fish Stock",
+          "packaging_quantity": 1000,
+          "price_item": 20000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Fresh Parsley",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Lemon",
+          "packaging_quantity": 1000,
+          "price_item": 10000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Spaghetti alle Vongole (Clams)",
+      "ingredients": [
+        {
+          "item_name": "Spaghetti",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Clams",
+          "packaging_quantity": 1000,
+          "price_item": 120000,
+          "grams_recipe": 300
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "White Wine",
+          "packaging_quantity": 750,
+          "price_item": 200000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Fresh Parsley",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Lemon",
+          "packaging_quantity": 1000,
+          "price_item": 10000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Spaghetti Pomodoro e Basilico (VEGETARIAN)",
+      "ingredients": [
+        {
+          "item_name": "Spaghetti",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Tomatoes",
+          "packaging_quantity": 1000,
+          "price_item": 28000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Fresh Basil",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Spaghetti alla Carbonara (CONTAINS PORK)",
+      "ingredients": [
+        {
+          "item_name": "Spaghetti",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Pancetta or Guanciale",
+          "packaging_quantity": 1000,
+          "price_item": 120000,
+          "grams_recipe": 150
+        },
+        {
+          "item_name": "Eggs",
+          "packaging_quantity": 1,
+          "price_item": 2000,
+          "grams_recipe": 2
+        },
+        {
+          "item_name": "Parmesan Cheese",
+          "packaging_quantity": 500,
+          "price_item": 50000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Pecorino Romano Cheese",
+          "packaging_quantity": 500,
+          "price_item": 60000,
+          "grams_recipe": 50
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    },
+    {
+      "recipe_name": "Spaghetti Aglio e Olio (HOT SPICY!)",
+      "ingredients": [
+        {
+          "item_name": "Spaghetti",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 200
+        },
+        {
+          "item_name": "Garlic",
+          "packaging_quantity": 1000,
+          "price_item": 25000,
+          "grams_recipe": 10
+        },
+        {
+          "item_name": "Olive Oil",
+          "packaging_quantity": 3500,
+          "price_item": 280000,
+          "grams_recipe": 30
+        },
+        {
+          "item_name": "Red Chili Flakes",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Fresh Parsley",
+          "packaging_quantity": 100,
+          "price_item": 10000,
+          "grams_recipe": 5
+        },
+        {
+          "item_name": "Sea Salt",
+          "packaging_quantity": 1000,
+          "price_item": 5000,
+          "grams_recipe": 1
+        },
+        {
+          "item_name": "Freshly Ground Black Pepper",
+          "packaging_quantity": 1000,
+          "price_item": 15000,
+          "grams_recipe": 1
+        }
+      ]
+    }
+  ]
+}

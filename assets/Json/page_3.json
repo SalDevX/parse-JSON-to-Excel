@@ -1,0 +1,287 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Caprese - Fresh Mozzarella Salad",
+            "ingredients": [
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Fresh Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Tomatoes (preferably Roma or Heirloom)",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Fresh Basil Leaves",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 20,
+                    "item_name": "Extra Virgin Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Balsamic Vinegar (optional)",
+                    "packaging_quantity": 500,
+                    "price_item": 20000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Insalata Caesar di Pollo - Chicken Caesar Salad",
+            "ingredients": [
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Chicken Breast (grilled or roasted)",
+                    "packaging_quantity": 1000,
+                    "price_item": 50000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Romaine Lettuce",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Caesar Dressing",
+                    "packaging_quantity": 500,
+                    "price_item": 30000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Parmesan Cheese (shredded)",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Croutons",
+                    "packaging_quantity": 500,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Shrimp Salad with Avocado, Saffron Potatoes, and Lettuce Bisque Dressing",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Shrimp (peeled and deveined)",
+                    "packaging_quantity": 1000,
+                    "price_item": 80000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Avocado (diced)",
+                    "packaging_quantity": 500,
+                    "price_item": 40000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Saffron Diced Potatoes",
+                    "packaging_quantity": 1000,
+                    "price_item": 35000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Lettuce (mixed, such as arugula and baby spinach)",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Bisque Dressing",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Lemon Zest",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Fresh Herbs (such as dill, parsley, or chives)",
+                    "packaging_quantity": 100,
+                    "price_item": 15000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Greek Salad",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Cucumber (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 12000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Tomatoes (cherry or regular, diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Red Onion (thinly sliced)",
+                    "packaging_quantity": 500,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Kalamata Olives",
+                    "packaging_quantity": 500,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Feta Cheese (cubed or crumbled)",
+                    "packaging_quantity": 500,
+                    "price_item": 40000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Oregano (dried)",
+                    "packaging_quantity": 100,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Lemon Juice",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                }
+            ]
+        },
+        {
+                "recipe_name": "Zuppa di Pesce – Mixed Seafood Soup",
+                "ingredients": [
+                    {
+                        "grams_recipe": 200,
+                        "item_name": "Mixed Seafood (shrimp, squid, mussels, clams, fish)",
+                        "packaging_quantity": 1000,
+                        "price_item": 120000
+                    },
+                    {
+                        "grams_recipe": 100,
+                        "item_name": "Fish Stock",
+                        "packaging_quantity": 1000,
+                        "price_item": 20000
+                    },
+                    {
+                        "grams_recipe": 50,
+                        "item_name": "Tomatoes (diced)",
+                        "packaging_quantity": 1000,
+                        "price_item": 28000
+                    },
+                    {
+                        "grams_recipe": 30,
+                        "item_name": "Olive Oil",
+                        "packaging_quantity": 3500,
+                        "price_item": 280000
+                    },
+                    {
+                        "grams_recipe": 10,
+                        "item_name": "Garlic (minced)",
+                        "packaging_quantity": 1000,
+                        "price_item": 25000
+                    },
+                    {
+                        "grams_recipe": 100,
+                        "item_name": "White Wine",
+                        "packaging_quantity": 750,
+                        "price_item": 200000
+                    },
+                    {
+                        "grams_recipe": 5,
+                        "item_name": "Fresh Parsley (chopped)",
+                        "packaging_quantity": 100,
+                        "price_item": 10000
+                    },
+                    {
+                        "grams_recipe": 1,
+                        "item_name": "Sea Salt",
+                        "packaging_quantity": 1000,
+                        "price_item": 5000
+                    },
+                    {
+                        "grams_recipe": 1,
+                        "item_name": "Freshly Ground Black Pepper",
+                        "packaging_quantity": 1000,
+                        "price_item": 15000
+                    },
+                    {
+                        "grams_recipe": 1,
+                        "item_name": "Chili Flakes (optional)",
+                        "packaging_quantity": 100,
+                        "price_item": 15000
+                    }
+                ]
+            }
+        ]
+    }

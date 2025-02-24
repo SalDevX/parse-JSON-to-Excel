@@ -1,0 +1,217 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Zuppa di Pesce – Mixed Seafood Soup",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Mixed Seafood (shrimp, squid, mussels, clams, fish)",
+                    "packaging_quantity": 1000,
+                    "price_item": 120000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Fish Stock",
+                    "packaging_quantity": 1000,
+                    "price_item": 20000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Tomatoes (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 28000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Garlic (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "White Wine",
+                    "packaging_quantity": 750,
+                    "price_item": 200000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Fresh Parsley (chopped)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Chili Flakes (optional)",
+                    "packaging_quantity": 100,
+                    "price_item": 15000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Minestrone – Mixed Vegetable Italian Clear Soup",
+            "ingredients": [
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Carrots (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Potatoes (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 12000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Celery (chopped)",
+                    "packaging_quantity": 1000,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Zucchini (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 12000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Tomatoes (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 28000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 5,
+                    "item_name": "Garlic (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Vegetable Stock",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Fresh Parsley (chopped)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 50,
+                    "item_name": "Pasta (small, like elbow or ditalini)",
+                    "packaging_quantity": 500,
+                    "price_item": 20000
+                }
+            ]
+        },
+        {
+            "recipe_name": "Vellutata di Pollo e Funghi – Chicken and Mushroom Velvet Soup",
+            "ingredients": [
+                {
+                    "grams_recipe": 300,
+                    "item_name": "Chicken Breast (boneless, skinless)",
+                    "packaging_quantity": 1000,
+                    "price_item": 80000
+                },
+                {
+                    "grams_recipe": 200,
+                    "item_name": "Mushrooms (sliced)",
+                    "packaging_quantity": 500,
+                    "price_item": 30000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Onion (chopped)",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 150,
+                    "item_name": "Carrot (diced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                },
+                {
+                    "grams_recipe": 2,
+                    "item_name": "Garlic Cloves (minced)",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000
+                },
+                {
+                    "grams_recipe": 500,
+                    "item_name": "Chicken Stock",
+                    "packaging_quantity": 1000,
+                    "price_item": 30000
+                },
+                {
+                    "grams_recipe": 30,
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000
+                },
+                {
+                    "grams_recipe": 100,
+                    "item_name": "Heavy Cream",
+                    "packaging_quantity": 1000,
+                    "price_item": 35000
+                },
+                {
+                    "grams_recipe": 10,
+                    "item_name": "Fresh Parsley (chopped)",
+                    "packaging_quantity": 100,
+                    "price_item": 10000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000
+                },
+                {
+                    "grams_recipe": 1,
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000
+                }
+            ]
+        }
+    ]
+}

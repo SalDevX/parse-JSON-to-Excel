@@ -1,0 +1,305 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Spaghetti Bolognese",
+            "ingredients": [
+                {
+                    "item_name": "Spaghetti",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Ground Beef",
+                    "packaging_quantity": 1000,
+                    "price_item": 120000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Carrot",
+                    "packaging_quantity": 1000,
+                    "price_item": 20000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Celery",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Onion",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Garlic",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Tomato Paste",
+                    "packaging_quantity": 500,
+                    "price_item": 10000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Tomatoes",
+                    "packaging_quantity": 1000,
+                    "price_item": 28000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Red Wine",
+                    "packaging_quantity": 750,
+                    "price_item": 200000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Bay Leaves",
+                    "packaging_quantity": 100,
+                    "price_item": 5000,
+                    "grams_recipe": 2
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Pennette Al Tonno",
+            "ingredients": [
+                {
+                    "item_name": "Pennette Pasta",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Tuna in Olive Oil",
+                    "packaging_quantity": 200,
+                    "price_item": 25000,
+                    "grams_recipe": 160
+                },
+                {
+                    "item_name": "Garlic",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Tomatoes",
+                    "packaging_quantity": 1000,
+                    "price_item": 28000,
+                    "grams_recipe": 150
+                },
+                {
+                    "item_name": "Capers",
+                    "packaging_quantity": 200,
+                    "price_item": 20000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Fresh Parsley",
+                    "packaging_quantity": 100,
+                    "price_item": 10000,
+                    "grams_recipe": 5
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Fettucine al Pesto (VEGETARIAN)",
+            "ingredients": [
+                {
+                    "item_name": "Fettucine Pasta",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Fresh Basil",
+                    "packaging_quantity": 100,
+                    "price_item": 10000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Garlic",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Parmesan Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Pine Nuts",
+                    "packaging_quantity": 200,
+                    "price_item": 50000,
+                    "grams_recipe": 20
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Fettucine Alfredo",
+            "ingredients": [
+                {
+                    "item_name": "Fettucine Pasta",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Butter",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Heavy Cream",
+                    "packaging_quantity": 1000,
+                    "price_item": 30000,
+                    "grams_recipe": 150
+                },
+                {
+                    "item_name": "Parmesan Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Garlic",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 5
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Gnocchi alla Sorrentina (VEGETARIAN)",
+            "ingredients": [
+                {
+                    "item_name": "Gnocchi",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 15000,
+                    "grams_recipe": 200
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 30000,
+                    "grams_recipe": 150
+                },
+                {
+                    "item_name": "Parmesan Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 20
+                },
+                {
+                    "item_name": "Fresh Basil",
+                    "packaging_quantity": 100,
+                    "price_item": 10000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        }
+    ]
+}

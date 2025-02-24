@@ -1,0 +1,305 @@
+{
+    "recipes": [
+        {
+            "recipe_name": "Pizza dello Chef – Must Try Pizza",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Parmesan Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Salami",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Mushrooms",
+                    "packaging_quantity": 1000,
+                    "price_item": 20000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olives",
+                    "packaging_quantity": 500,
+                    "price_item": 30000,
+                    "grams_recipe": 30
+                },
+                {
+                    "item_name": "Fresh Basil",
+                    "packaging_quantity": 100,
+                    "price_item": 10000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Meat Lovers – Pizza with Ham, Salami, and Bacon",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Ham",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Salami",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Bacon",
+                    "packaging_quantity": 500,
+                    "price_item": 55000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Frutti di Mare / Venezia – Must Try Seafood Pizza",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Shrimp",
+                    "packaging_quantity": 500,
+                    "price_item": 70000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Squid",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Mussels",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Clams",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Salame Piccante – Spicy Salami Pizza with Pepperoni",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Salami",
+                    "packaging_quantity": 500,
+                    "price_item": 50000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Pepperoni",
+                    "packaging_quantity": 500,
+                    "price_item": 55000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        },
+        {
+            "recipe_name": "Prosciutto e Funghi – Ham and Mushrooms Pizza",
+            "ingredients": [
+                {
+                    "item_name": "Pizza Dough",
+                    "packaging_quantity": 1000,
+                    "price_item": 25000,
+                    "grams_recipe": 250
+                },
+                {
+                    "item_name": "Tomato Sauce",
+                    "packaging_quantity": 500,
+                    "price_item": 20000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Mozzarella Cheese",
+                    "packaging_quantity": 500,
+                    "price_item": 40000,
+                    "grams_recipe": 100
+                },
+                {
+                    "item_name": "Prosciutto (Ham)",
+                    "packaging_quantity": 500,
+                    "price_item": 60000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Mushrooms",
+                    "packaging_quantity": 1000,
+                    "price_item": 20000,
+                    "grams_recipe": 50
+                },
+                {
+                    "item_name": "Olive Oil",
+                    "packaging_quantity": 3500,
+                    "price_item": 280000,
+                    "grams_recipe": 10
+                },
+                {
+                    "item_name": "Sea Salt",
+                    "packaging_quantity": 1000,
+                    "price_item": 5000,
+                    "grams_recipe": 1
+                },
+                {
+                    "item_name": "Freshly Ground Black Pepper",
+                    "packaging_quantity": 1000,
+                    "price_item": 15000,
+                    "grams_recipe": 1
+                }
+            ]
+        }
+    ]
+}
